@@ -107,7 +107,7 @@ export const NAVIGATION_DATA: NavigationItem[] = [
     description: "TOOLS.STEAM.DESC",
     url: "https://store.steampowered.com/",
     iconSvg:
-      "M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0zm-4.68 16.8c-1.73 0-3.14-1.4-3.14-3.13 0-1.72 1.4-3.13 3.14-3.13 1.73 0 3.13 1.4 3.13 3.13 0 1.72-1.4 3.13-3.13 3.13zm5.76-6.36l-2.15.89c.12.43.2.89.2 1.36 0 .16-.01.31-.03.47l3.28 1.36c.5-.92.78-1.97.78-3.08 0-3.6-2.92-6.52-6.52-6.52-3.6 0-6.52 2.92-6.52 6.52 0 2.9 1.88 5.35 4.47 6.19l1.3-1.94c-1.38-.5-2.37-1.81-2.37-3.35 0-1.97 1.6-3.57 3.57-3.57 1.97 0 3.57 1.6 3.57 3.57 0 1.97-1.6 3.57-3.57 3.57-.12 0-.23-.01-.35-.02l-.75 1.12c.36.04.73.06 1.1.06 4.42 0 8-3.58 8-8s-3.58-8-8-8z",
+      "M12 2a10 10 0 0 1 10 10a10 10 0 0 1-10 10c-4.6 0-8.45-3.08-9.64-7.27l3.83 1.58a2.84 2.84 0 0 0 2.78 2.27c1.56 0 2.83-1.27 2.83-2.83v-.13l3.4-2.43h.08c2.08 0 3.77-1.69 3.77-3.77s-1.69-3.77-3.77-3.77s-3.78 1.69-3.78 3.77v.05l-2.37 3.46l-.16-.01c-.59 0-1.14.18-1.59.49L2 11.2C2.43 6.05 6.73 2 12 2M8.28 17.17c.8.33 1.72-.04 2.05-.84s-.05-1.71-.83-2.04l-1.28-.53c.49-.18 1.04-.19 1.56.03c.53.21.94.62 1.15 1.15c.22.52.22 1.1 0 1.62c-.43 1.08-1.7 1.6-2.78 1.15c-.5-.21-.88-.59-1.09-1.04zm9.52-7.75c0 1.39-1.13 2.52-2.52 2.52a2.52 2.52 0 0 1-2.51-2.52a2.5 2.5 0 0 1 2.51-2.51a2.52 2.52 0 0 1 2.52 2.51m-4.4 0c0 1.04.84 1.89 1.89 1.89c1.04 0 1.88-.85 1.88-1.89s-.84-1.89-1.88-1.89c-1.05 0-1.89.85-1.89 1.89",
     category: "Games",
     tags: ["TAGS.GAMES", "TAGS.STORE", "TAGS.PLATFORM", "TAGS.COMMUNITY"],
   },
@@ -117,7 +117,7 @@ export const NAVIGATION_DATA: NavigationItem[] = [
     description: "TOOLS.EPIC.DESC",
     url: "https://store.epicgames.com/",
     iconSvg:
-      "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9v-2h2v2zm0-3H9V7h2v6z",
+      "M4 1a1.5 1.5 0 0 0-1.5 1.5v16a.5.5 0 0 0 .297.457l9 4a.5.5 0 0 0 .406 0l9-4a.5.5 0 0 0 .297-.457v-16A1.5 1.5 0 0 0 20 1zm10.25 11.75h-1.5v-8.5h1.5zM8 18.5l4 2l4-2zM8 4.25H5.25v8.5H8v-1.5H6.75v-2H8v-1.5H6.75v-2H8zm2.5 0H8.75v8.5h1.5v-2.5h.25a1.75 1.75 0 0 0 1.75-1.75V6a1.75 1.75 0 0 0-1.75-1.75m0 4.5h-.25v-3h.25a.25.25 0 0 1 .25.25v2.5a.25.25 0 0 1-.25.25m4.25-3.25c0-.69.56-1.25 1.25-1.25h1.5c.69 0 1.25.56 1.25 1.25v2h-1.5V5.75h-1v5.5h1V9.5h1.5v2c0 .69-.56 1.25-1.25 1.25H16c-.69 0-1.25-.56-1.25-1.25zM5.5 16.25h12v-1.5h-12z",
     category: "Games",
     tags: ["TAGS.GAMES", "TAGS.STORE", "TAGS.PLATFORM"],
   },
@@ -126,8 +126,7 @@ export const NAVIGATION_DATA: NavigationItem[] = [
     name: "TOOLS.WEGAME.NAME",
     description: "TOOLS.WEGAME.DESC",
     url: "https://www.wegame.com.cn/",
-    iconSvg:
-      "M12 2L2 22h20L12 2zm0 3.5L18.5 19H5.5L12 5.5z",
+    iconSvg: "M12 2L2 22h20L12 2zm0 3.5L18.5 19H5.5L12 5.5z",
     category: "Games",
     tags: ["TAGS.GAMES", "TAGS.PLATFORM", "TAGS.TENCENT"],
   },
@@ -136,11 +135,10 @@ export const NAVIGATION_DATA: NavigationItem[] = [
     name: "TOOLS.ALI213.NAME",
     description: "TOOLS.ALI213.DESC",
     url: "https://www.ali213.net/",
-    iconSvg:
-      "M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z",
+    iconSvg: "M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z",
     category: "Games",
     tags: ["TAGS.GAMES", "TAGS.COMMUNITY", "TAGS.NEWS"],
-  },  
+  },
   {
     id: "slack",
     name: "TOOLS.SLACK.NAME",
