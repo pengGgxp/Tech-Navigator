@@ -1,0 +1,172 @@
+{
+  "Tech Navigator": "Tech Navigator",
+  "SUBTITLE": "Your portal to the essential tools for creation and innovation.",
+  "SEARCH_PLACEHOLDER": "Search for a tool or click a tag...",
+  "NO_TOOLS_FOUND": "No Tools Found",
+  "NO_TOOLS_DESC": "Try adjusting your search or filter criteria.",
+  "BUILT_WITH": "Built with Angular & Tailwind CSS",
+  "All": "All",
+  "Code & Dev": "Code & Dev",
+  "Design & Creative": "Design & Creative",
+  "DevOps & Cloud": "DevOps & Cloud",
+  "AI & Data": "AI & Data",
+  "Productivity & Comms": "Productivity & Comms",
+  "Business & Finance": "Business & Finance",
+  "Utilities & Security": "Utilities & Security",
+  "Games": "Games",
+  "TOOLS": {
+    "VSCODE": {
+      "NAME": "VS Code",
+      "DESC": "A powerful, lightweight code editor for modern web development."
+    },
+    "FIGMA": {
+      "NAME": "Figma",
+      "DESC": "The collaborative interface design tool for teams."
+    },
+    "POSTMAN": {
+      "NAME": "Postman",
+      "DESC": "The complete platform for API development and testing."
+    },
+    "NOTION": {
+      "NAME": "Notion",
+      "DESC": "The all-in-one workspace for your notes, tasks, wikis, and databases."
+    },
+    "GITHUB": {
+      "NAME": "GitHub",
+      "DESC": "Where the world builds software. Millions of developers and companies build, ship, and maintain their software on GitHub."
+    },
+    "DOCKER": {
+      "NAME": "Docker",
+      "DESC": "Securely build, share and run any application, anywhere."
+    },
+    "CANVA": {
+      "NAME": "Canva",
+      "DESC": "Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print business cards, logos, presentations, and more."
+    },
+    "PHOTOSHOP": {
+      "NAME": "Adobe Photoshop",
+      "DESC": "The industry-standard graphic editor for photo manipulation and image editing."
+    },
+    "SPLINE": {
+      "NAME": "Spline",
+      "DESC": "A friendly 3D design tool for the web."
+    },
+    "SLACK": {
+      "NAME": "Slack",
+      "DESC": "Team communication and collaboration in one place."
+    },
+    "TODOIST": {
+      "NAME": "Todoist",
+      "DESC": "The to-do list to organize work & life."
+    },
+    "RAYCAST": {
+      "NAME": "Raycast",
+      "DESC": "A blazingly fast, extensible launcher. Complete tasks, calculate, share common links, and more."
+    },
+    "CLEANSHOT": {
+      "NAME": "CleanShot X",
+      "DESC": "The ultimate screen capturing tool for Mac. Capture, annotate, and share effortlessly."
+    },
+    "1PASSWORD": {
+      "NAME": "1Password",
+      "DESC": "The easiest way to store and use strong passwords."
+    },
+    "WARP": {
+      "NAME": "Warp",
+      "DESC": "A blazingly fast terminal built in Rust, reimagined from the ground up."
+    },
+    "JIRA": {
+      "NAME": "Jira",
+      "DESC": "The #1 software development tool used by agile teams."
+    },
+    "HUGGINGFACE": {
+      "NAME": "Hugging Face",
+      "DESC": "The AI community building the future. Build, train and deploy state of the art models powered by open source machine learning."
+    },
+    "STEAM": {
+      "NAME": "Steam",
+      "DESC": "The ultimate destination for playing, discussing, and creating games."
+    },
+    "EPIC": {
+      "NAME": "Epic Games",
+      "DESC": "A digital storefront for PC and Mac games, often offering exclusives and discounts."
+    },
+    "WEGAME": {
+      "NAME": "WeGame",
+      "DESC": "Tencent's global game open platform, providing one-stop services for developers and players."
+    },
+    "ALI213": {
+      "NAME": "Ali213",
+      "DESC": "A professional single-player game portal providing news, downloads, and guides."
+    }
+  },
+  "TAGS": {
+    "CODE": "Code",
+    "EDITOR": "Editor",
+    "IDE": "IDE",
+    "MICROSOFT": "Microsoft",
+    "UI": "UI",
+    "UX": "UX",
+    "DESIGN": "Design",
+    "PROTOTYPE": "Prototype",
+    "API": "API",
+    "TESTING": "Testing",
+    "BACKEND": "Backend",
+    "REQUEST": "Request",
+    "NOTES": "Notes",
+    "DOCS": "Docs",
+    "TASKS": "Tasks",
+    "ORGANIZATION": "Organization",
+    "GIT": "Git",
+    "VERSION_CONTROL": "Version Control",
+    "COLLABORATION": "Collaboration",
+    "CONTAINER": "Container",
+    "DEVOPS": "DevOps",
+    "DEPLOYMENT": "Deployment",
+    "VIRTUALIZATION": "Virtualization",
+    "GRAPHICS": "Graphics",
+    "SOCIAL_MEDIA": "Social Media",
+    "PRESENTATION": "Presentation",
+    "PHOTO_EDITING": "Photo Editing",
+    "RASTER": "Raster",
+    "ADOBE": "Adobe",
+    "3D": "3D",
+    "WEB": "Web",
+    "ANIMATION": "Animation",
+    "COMMUNICATION": "Communication",
+    "TEAM": "Team",
+    "CHAT": "Chat",
+    "TODO": "Todo",
+    "GTD": "GTD",
+    "LAUNCHER": "Launcher",
+    "PRODUCTIVITY": "Productivity",
+    "MAC": "Mac",
+    "EFFICIENCY": "Efficiency",
+    "SCREENSHOT": "Screenshot",
+    "SCREEN_RECORDING": "Screen Recording",
+    "UTILITY": "Utility",
+    "PASSWORD": "Password",
+    "SECURITY": "Security",
+    "MANAGER": "Manager",
+    "PRIVACY": "Privacy",
+    "TERMINAL": "Terminal",
+    "CLI": "CLI",
+    "DEVELOPER": "Developer",
+    "RUST": "Rust",
+    "AGILE": "Agile",
+    "PROJECT_MANAGEMENT": "Project Management",
+    "TICKETS": "Tickets",
+    "ATLASSIAN": "Atlassian",
+    "MACHINE_LEARNING": "Machine Learning",
+    "MODELS": "Models",
+    "NLP": "NLP",
+    "OPEN_SOURCE": "Open Source",
+    "AI": "AI",
+    "GAMES": "Games",
+    "STORE": "Store",
+    "PLATFORM": "Platform",
+    "COMMUNITY": "Community",
+    "TENCENT": "Tencent",
+    "NEWS": "News"
+  }
+}

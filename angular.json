@@ -17,7 +17,14 @@
               "browser": "."
             },
             "browser": "index.tsx",
-            "tsConfig": "tsconfig.json"
+            "tsConfig": "tsconfig.json",
+            "assets": [
+              {
+                "glob": "**/*",
+                "input": "src/assets",
+                "output": "assets"
+              }
+            ]
           },
           "configurations": {
             "production": {
@@ -48,5 +55,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "7db521bb-b276-4151-abb7-61322e0e0c02"
   }
 }

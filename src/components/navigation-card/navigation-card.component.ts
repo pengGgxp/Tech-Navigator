@@ -1,10 +1,12 @@
 import { ChangeDetectionStrategy, Component, input, output } from '@angular/core';
+import { TranslateModule } from '@ngx-translate/core';
 import { NavigationItem } from '../../models/navigation-item.model';
 
 @Component({
   selector: 'app-navigation-card',
   templateUrl: './navigation-card.component.html',
   changeDetection: ChangeDetectionStrategy.OnPush,
+  imports: [TranslateModule]
 })
 export class NavigationCardComponent {
   item = input.required<NavigationItem>();

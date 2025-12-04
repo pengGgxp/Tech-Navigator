@@ -1,0 +1,172 @@
+{
+  "Tech Navigator": "Tech Navigator",
+  "SUBTITLE": "您的创造与创新必备工具门户。",
+  "SEARCH_PLACEHOLDER": "搜索工具或点击标签...",
+  "NO_TOOLS_FOUND": "未找到工具",
+  "NO_TOOLS_DESC": "尝试调整您的搜索或筛选条件。",
+  "BUILT_WITH": "基于 Angular & Tailwind CSS 构建",
+  "All": "全部",
+  "Code & Dev": "代码开发",
+  "Design & Creative": "设计创意",
+  "DevOps & Cloud": "运维云端",
+  "AI & Data": "人工智能",
+  "Productivity & Comms": "生产力",
+  "Business & Finance": "商业金融",
+  "Utilities & Security": "工具安全",
+  "Games": "游戏娱乐",
+  "TOOLS": {
+    "VSCODE": {
+      "NAME": "VS Code",
+      "DESC": "适用于现代 Web 开发的强大轻量级代码编辑器。"
+    },
+    "FIGMA": {
+      "NAME": "Figma",
+      "DESC": "团队协作界面设计工具。"
+    },
+    "POSTMAN": {
+      "NAME": "Postman",
+      "DESC": "API 开发和测试的完整平台。"
+    },
+    "NOTION": {
+      "NAME": "Notion",
+      "DESC": "笔记、任务、文档和数据库的一站式工作空间。"
+    },
+    "GITHUB": {
+      "NAME": "GitHub",
+      "DESC": "全球软件构建之地。数百万开发者和公司在 GitHub 上构建、发布和维护软件。"
+    },
+    "DOCKER": {
+      "NAME": "Docker",
+      "DESC": "安全地构建、分享和运行任何应用，无论在何处。"
+    },
+    "CANVA": {
+      "NAME": "Canva",
+      "DESC": "与团队一起创建精美设计。使用 Canva 的拖拽功能和布局设计、分享和打印名片、Logo、演示文稿等。"
+    },
+    "PHOTOSHOP": {
+      "NAME": "Adobe Photoshop",
+      "DESC": "业界标准的图像编辑和照片处理软件。"
+    },
+    "SPLINE": {
+      "NAME": "Spline",
+      "DESC": "友好的 Web 3D 设计工具。"
+    },
+    "SLACK": {
+      "NAME": "Slack",
+      "DESC": "团队沟通与协作的一站式平台。"
+    },
+    "TODOIST": {
+      "NAME": "Todoist",
+      "DESC": "组织工作和生活的待办事项列表。"
+    },
+    "RAYCAST": {
+      "NAME": "Raycast",
+      "DESC": "极速、完全可扩展的启动器。完成任务、计算、分享常用链接等等。"
+    },
+    "CLEANSHOT": {
+      "NAME": "CleanShot X",
+      "DESC": "Mac 上终极的截屏工具。轻松截屏、标注和分享。"
+    },
+    "1PASSWORD": {
+      "NAME": "1Password",
+      "DESC": "存储和使用强密码的最简单方法。"
+    },
+    "WARP": {
+      "NAME": "Warp",
+      "DESC": "从头重新构想的基于 Rust 的极速终端。"
+    },
+    "JIRA": {
+      "NAME": "Jira",
+      "DESC": "敏捷团队使用的首选软件开发工具。"
+    },
+    "HUGGINGFACE": {
+      "NAME": "Hugging Face",
+      "DESC": "构建未来的 AI 社区。构建、训练和部署由开源机器学习驱动的最先进模型。"
+    },
+    "STEAM": {
+      "NAME": "Steam",
+      "DESC": "PC 游戏在线数字商店，社区和玩家中心。"
+    },
+    "EPIC": {
+      "NAME": "Epic Games",
+      "DESC": "PC 和 Mac 游戏的数字商店，经常提供独家游戏和折扣。"
+    },
+    "WEGAME": {
+      "NAME": "WeGame",
+      "DESC": "腾讯全球游戏开放平台，为开发者和玩家提供一站式服务。"
+    },
+    "ALI213": {
+      "NAME": "游侠网",
+      "DESC": "专业的单机游戏门户网站，提供游戏资讯、下载和攻略。"
+    }
+  },
+  "TAGS": {
+    "CODE": "代码",
+    "EDITOR": "编辑器",
+    "IDE": "集成开发环境",
+    "MICROSOFT": "微软",
+    "UI": "用户界面",
+    "UX": "用户体验",
+    "DESIGN": "设计",
+    "PROTOTYPE": "原型",
+    "API": "API接口",
+    "TESTING": "测试",
+    "BACKEND": "后端",
+    "REQUEST": "请求",
+    "NOTES": "笔记",
+    "DOCS": "文档",
+    "TASKS": "任务",
+    "ORGANIZATION": "组织",
+    "GIT": "Git",
+    "VERSION_CONTROL": "版本控制",
+    "COLLABORATION": "协作",
+    "CONTAINER": "容器",
+    "DEVOPS": "运维",
+    "DEPLOYMENT": "部署",
+    "VIRTUALIZATION": "虚拟化",
+    "GRAPHICS": "图形",
+    "SOCIAL_MEDIA": "社交媒体",
+    "PRESENTATION": "演示",
+    "PHOTO_EDITING": "照片编辑",
+    "RASTER": "位图",
+    "ADOBE": "Adobe",
+    "3D": "3D",
+    "WEB": "Web",
+    "ANIMATION": "动画",
+    "COMMUNICATION": "通讯",
+    "TEAM": "团队",
+    "CHAT": "聊天",
+    "TODO": "待办事项",
+    "GTD": "GTD",
+    "LAUNCHER": "启动器",
+    "PRODUCTIVITY": "生产力",
+    "MAC": "Mac",
+    "EFFICIENCY": "效率",
+    "SCREENSHOT": "截图",
+    "SCREEN_RECORDING": "录屏",
+    "UTILITY": "工具",
+    "PASSWORD": "密码",
+    "SECURITY": "安全",
+    "MANAGER": "管理器",
+    "PRIVACY": "隐私",
+    "TERMINAL": "终端",
+    "CLI": "命令行",
+    "DEVELOPER": "开发者",
+    "RUST": "Rust",
+    "AGILE": "敏捷开发",
+    "PROJECT_MANAGEMENT": "项目管理",
+    "TICKETS": "工单",
+    "ATLASSIAN": "Atlassian",
+    "MACHINE_LEARNING": "机器学习",
+    "MODELS": "模型",
+    "NLP": "自然语言处理",
+    "OPEN_SOURCE": "开源",
+    "AI": "人工智能",
+    "GAMES": "游戏",
+    "STORE": "商店",
+    "PLATFORM": "平台",
+    "COMMUNITY": "社区",
+    "TENCENT": "腾讯",
+    "NEWS": "资讯"
+  }
+}
