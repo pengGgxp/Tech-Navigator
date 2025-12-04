@@ -5,7 +5,7 @@ export interface NavigationItem {
   name: string;
   description: string;
   url: string;
-  iconSvg: string; // SVG path data
+  iconSvg: string; // SVG full tag string
   category: AppCategory;
   tags: string[];
 }

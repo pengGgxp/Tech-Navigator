@@ -60,7 +60,7 @@ Tech Navigator 是一个现代化的开发者工具导航站，基于 Angular �
       name: "TOOLS.TOOL_ID.NAME",         // 名称的 i18n Key
       description: "TOOLS.TOOL_ID.DESC",  // 描述的 i18n Key
       url: "https://example.com",         // 工具链接
-      iconSvg: "...",                     // SVG 图标路径
+      iconSvg: "...",                     // SVG 完整标签字符串 (e.g. <svg>...</svg>)
       category: "Code & Dev",             // 必须匹配已有的分类名称
       tags: ["TAGS.TAG1", "TAGS.TAG2"]    // 标签的 i18n Keys
     }

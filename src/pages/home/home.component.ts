@@ -13,10 +13,16 @@ import { NavigationItem } from "../../models/navigation-item.model";
 import { NavigationCardComponent } from "../../components/navigation-card/navigation-card.component";
 import { FilterCategory } from "../../models/category.type";
 import { Category } from "../../models/category.model";
+import { SafeHtmlPipe } from "../../pipes/safe-html.pipe";
 
 @Component({
   selector: "app-home",
-  imports: [CommonModule, NavigationCardComponent, TranslateModule],
+  imports: [
+    CommonModule,
+    NavigationCardComponent,
+    TranslateModule,
+    SafeHtmlPipe,
+  ],
   templateUrl: "./home.component.html",
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
