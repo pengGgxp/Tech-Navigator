@@ -17,7 +17,16 @@
   "Business & Finance": "商业金融",
   "Utilities & Security": "工具安全",
   "Games": "游戏娱乐",
+  "My Tools": "我的工具",
   "TOOLS": {
+    "TECH_NAVIGATOR": {
+      "NAME": "Tech Navigator",
+      "DESC": "您的创造与创新必备工具门户。"
+    },
+    "PERLER_GEN": {
+      "NAME": "拼豆生成器",
+      "DESC": "智能像素画转换与设计工具。"
+    },
     "VSCODE": {
       "NAME": "VS Code",
       "DESC": "适用于现代 Web 开发的强大轻量级代码编辑器。"
@@ -170,6 +179,12 @@
     "PLATFORM": "平台",
     "COMMUNITY": "社区",
     "TENCENT": "腾讯",
-    "NEWS": "资讯"
+    "NEWS": "资讯",
+    "NAVIGATION": "导航",
+    "PORTAL": "门户",
+    "MY_APPS": "我的应用",
+    "PIXEL_ART": "像素画",
+    "GENERATOR": "生成器",
+    "DIY": "DIY"
   }
 }

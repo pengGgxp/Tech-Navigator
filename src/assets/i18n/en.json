@@ -17,7 +17,16 @@
   "Business & Finance": "Business & Finance",
   "Utilities & Security": "Utilities & Security",
   "Games": "Games",
+  "My Tools": "My Tools",
   "TOOLS": {
+    "TECH_NAVIGATOR": {
+      "NAME": "Tech Navigator",
+      "DESC": "Your portal to the essential tools for creation and innovation."
+    },
+    "PERLER_GEN": {
+      "NAME": "PerlerGen",
+      "DESC": "Smart pixel art conversion and design tool."
+    },
     "VSCODE": {
       "NAME": "VS Code",
       "DESC": "A powerful, lightweight code editor for modern web development."
@@ -170,6 +179,12 @@
     "PLATFORM": "Platform",
     "COMMUNITY": "Community",
     "TENCENT": "Tencent",
-    "NEWS": "News"
+    "NEWS": "News",
+    "NAVIGATION": "Navigation",
+    "PORTAL": "Portal",
+    "MY_APPS": "My Apps",
+    "PIXEL_ART": "Pixel Art",
+    "GENERATOR": "Generator",
+    "DIY": "DIY"
   }
 }

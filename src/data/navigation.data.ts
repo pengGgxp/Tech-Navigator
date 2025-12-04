@@ -140,6 +140,26 @@ export const NAVIGATION_DATA: NavigationItem[] = [
     tags: ["TAGS.GAMES", "TAGS.COMMUNITY", "TAGS.NEWS"],
   },
   {
+    id: "tech-navigator",
+    name: "TOOLS.TECH_NAVIGATOR.NAME",
+    description: "TOOLS.TECH_NAVIGATOR.DESC",
+    url: "https://tn.str1ct.top/",
+    iconSvg:
+      "M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm2.12 12.12l-7.07 2.83 2.83-7.07 7.07-2.83-2.83 7.07z",
+    category: "My Tools",
+    tags: ["TAGS.NAVIGATION", "TAGS.PORTAL", "TAGS.MY_APPS"],
+  },
+  {
+    id: "perler-gen",
+    name: "TOOLS.PERLER_GEN.NAME",
+    description: "TOOLS.PERLER_GEN.DESC",
+    url: "https://perlergen.str1ct.top/",
+    iconSvg:
+      "M4 4h4v4H4zm6 0h4v4h-4zm6 0h4v4h-4zM4 10h4v4H4zm6 0h4v4h-4zm6 0h4v4h-4zM4 16h4v4H4zm6 0h4v4h-4zm6 0h4v4h-4z",
+    category: "My Tools",
+    tags: ["TAGS.PIXEL_ART", "TAGS.GENERATOR", "TAGS.DIY", "TAGS.MY_APPS"],
+  },
+  {
     id: "slack",
     name: "TOOLS.SLACK.NAME",
     description: "TOOLS.SLACK.DESC",

@@ -7,6 +7,7 @@ export type AppCategory =
   | "Business & Finance"
   | "Utilities & Security"
   | "Games"
+  | "My Tools"
   | (string & {});
 
 export type FilterCategory = "All" | AppCategory;
